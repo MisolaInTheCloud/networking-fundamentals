@@ -13,7 +13,7 @@ OSI Layer || Nickname ||  Role Real-World Example
 3. Network ||The GPS Navigator || Google Maps rerouting you around traffic to get to the concert on time.
    
 2. Data Link || The Neighborhood Mailman || Your Wi-Fi router sending Netflix data to your laptop, not your roommate’s phone.
-   
+
 1. Physical ||	The Highway || The Ethernet cable or Wi-Fi signal carrying data like cars on a road. Bonus drama: "Why is the Wi-Fi so slow?!"
 
 
