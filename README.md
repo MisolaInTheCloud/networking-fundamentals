@@ -15,7 +15,7 @@ In Summary: 1. Order it (Application ) → 2. Translate your order to emojis (Pr
 
 ## Subnetting Calculation
 
-## Subnetting divides a large network into smaller, manageable subnetworks. Below is a calculation example for an IP range:
+## Subnetting divides a large network into smaller, manageable subnetworks. Below is a calculation example for an IP range: (I used https://subnettingpractice.com/subnet-calculator.html for my calculation)
 
 IP Address: 41.76.82.198
 
@@ -47,3 +47,4 @@ Transport Layer: TCP breaks the request into smaller packets, ensuring reliable 
 Internet Layer: IP addresses are used to route packets across the internet.
 
 Network Access Layer: The physical network (Ethernet, Wi-Fi) transmits packets to the destination server.
+Once the server responds, the process reverses to display the requested webpage in the browser.
