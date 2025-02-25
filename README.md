@@ -31,7 +31,9 @@ First Usable Host: 41.76.82.1
 
 Last Usable Host: 41.76.82.254
 
-Usable Hosts: 254 ![image](https://github.com/user-attachments/assets/47bb4d99-aeb9-4256-920c-85f97cbab1e8)
+Usable Hosts: 254 
+
+![image](https://github.com/user-attachments/assets/47bb4d99-aeb9-4256-920c-85f97cbab1e8)
 
 
 ## TCP/IP Protocol Suite in Action
